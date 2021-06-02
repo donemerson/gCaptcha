@@ -3,7 +3,7 @@
 # Run `pod lib lint gCaptcha.podspec' to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'gCaptcha'
+  s.name             = 'g_captcha'
   s.version          = '0.0.1'
   s.summary          = 'A new Flutter project.'
   s.description      = <<-DESC
